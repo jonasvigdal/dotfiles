@@ -22,7 +22,5 @@
   "sonarlint.automaticAnalysis": false,
 
   "remote.autoForwardPortsSource": "hybrid",
-
-  // Use your custom theme (defined below)
   "workbench.colorTheme": "My Custom Nord UI"
 }
