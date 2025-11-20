@@ -1,0 +1,28 @@
+{
+  "cmake.options.statusBarVisibility": "full",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+
+  "editor.formatOnSave": true,
+
+  "git.inputValidationSubjectLength": 50,
+  "git.inputValidationLength": 74,
+  "git.suggestSmartCommit": false,
+  "git.openRepositoryInParentFolders": "never",
+
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "nrf-connect.enableTelemetry": false,
+  "sonarlint.automaticAnalysis": false,
+
+  "remote.autoForwardPortsSource": "hybrid",
+
+  // Use your custom theme (defined below)
+  "workbench.colorTheme": "My Custom Nord UI"
+}
